@@ -1,8 +1,8 @@
-Nome:
-Cognome:
+Nome: Alby
+Cognome: Banana
 
-Fila:
-Postazione:
+Fila: 666
+Postazione: Paradiso
 
 
 # VERIFICA: Fondamenti di version control
