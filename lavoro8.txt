@@ -1,1 +1,2 @@
 daniel - precipuo: feature 1 - prima riga
+daniel - precipuo: feature 1 - aggiunta - seconda riga
