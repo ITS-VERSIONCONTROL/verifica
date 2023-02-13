@@ -1,2 +1,6 @@
 daniele-poli: feature 3 - Ciao ragazzi, tutto bene ??
 daniele-poli: feature 3 - Spero tutto bene!!
+
+davide-marcellino: feature1 - la prima regola di Dante:
+			    - 1 Amare Beatrice.
+
