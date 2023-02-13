@@ -1,28 +1,28 @@
 
+
  
+
+
+
+
+
+
 =======
 fabio- rattalino: feature 2 - Ciao, sono fabio
 fabio- rattalino: feature 2 - aggiunta - Mi piace il calcio
->>>>>>> 31bfbe835daf4771e7219d347fdaa2d8890d7f3c
+
 =======
 wenjun - zheng: feature 1 - Ciao, sono WenJun e ho 22 anni.
-wenjun - zheng: feature 1 - aggiunta - Mi piace guardare youtube e giocare ai videogiochi.
->>>>>>> f0ba419064ad196cbf36dc6ac9cae280bbc60523
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+wenjun - zheng: feature 1 - aggiunta - Mi piace guardare youtube e giocare ai videogioch
 
 Hao Bin - Cattano Zhou: feature 4 - ciao sono Hao Bin Cattano Zhou prima modifica
 Hao Bin - Cattano Zhou: feature 4 - ciao sono Hao Bin Cattano Zhou seconda modifica 
+=======
+
+fabio- rattalino: feature 2 - Ciao, sono fabio
+fabio- rattalino: feature 2 - aggiunta - Mi piace il calcio
+
+wenjun - zheng: feature 1 - Ciao, sono WenJun e ho 22 anni.
+wenjun - zheng: feature 1 - aggiunta - Mi piace guardare youtube e giocare ai videogiochi.
+
+
