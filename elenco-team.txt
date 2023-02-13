@@ -9,7 +9,6 @@ Jessica-Almeida-Lorençao
 
 
 Team 2:
-
 filippo-festa
 
 alessandro-riccumeni
@@ -21,9 +20,14 @@ Mattia-Tarantino
 
 Team 3:
 
+
+
 alessandro ramello
+
 Daniele poli
+
 Giorgio Galiano
+
 Davide Marcellino
 
 
@@ -33,17 +37,23 @@ Simone-LoStimolo
 serghej-pandiani
 
 Team 5:
-
+pierpaolo-destino
+alessandro-pisci
+alessia-santi
 Team 6:
 
 Team 7:
 Zheng WenJun
-
-
-
-
 CattanoZhouHaoBin
-Team 8:
+
+Team 8: 
+Daniel Precipuo
+moreno-boasso
+Luca-Monas
+Simone Cavallo
+
+
+
 
 Team 9:
 
