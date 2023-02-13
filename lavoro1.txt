@@ -1,1 +1,3 @@
 Jessica - Almeida: feature 1 - Questa è la mia verifica.
+
+Jessica - Almeida: feature 1 - aggiunta - Questa è la mia seconda riga.
