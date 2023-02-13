@@ -1,1 +1,2 @@
 moreno - boasso: feature 1 - il mio primo libro 
+moreno - boasso: feature 1 - aggiunta - si intitolerà "star wars"
