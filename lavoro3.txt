@@ -6,3 +6,8 @@ giorgio-galiano:feature 2 - aggiunta - non so ancora adesso cosa aggiungere
 
 daniele-poli: feature 3 - Ciao ragazzi, tutto bene ??
 daniele-poli: feature 3 - Spero tutto bene!!
+
+alessandro-ramello: feature4: " testo numero 1"
+alessandro-ramello: feature4: " testo numero 2"
+
+
