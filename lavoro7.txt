@@ -1,12 +1,16 @@
 
 
+<<<<<<< HEAD
  
 
 
+=======
+>>>>>>> dcf735323f68f10fb11bd69849db84fa7c4b0b96
 
 
 
 
+<<<<<<< HEAD
 =======
 fabio- rattalino: feature 2 - Ciao, sono fabio
 fabio- rattalino: feature 2 - aggiunta - Mi piace il calcio
@@ -26,3 +30,15 @@ wenjun - zheng: feature 1 - Ciao, sono WenJun e ho 22 anni.
 wenjun - zheng: feature 1 - aggiunta - Mi piace guardare youtube e giocare ai videogiochi.
 
 
+=======
+
+
+
+
+fabio- rattalino: feature 2 - Ciao, sono fabio
+fabio- rattalino: feature 2 - aggiunta - Mi piace il calcio
+
+wenjun - zheng: feature 1 - Ciao, sono WenJun e ho 22 anni.
+wenjun - zheng: feature 1 - aggiunta - Mi piace guardare youtube e giocare ai videogiochi.
+
+>>>>>>> dcf735323f68f10fb11bd69849db84fa7c4b0b96
