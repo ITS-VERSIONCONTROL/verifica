@@ -1,2 +1,44 @@
+
  filippo-festa: feature 1 - Ciao ragazzi, mi chiamo filippo e mi piacciano i treni
  filippo-festa: feature 1 - aggiunta - e ho sempre voluto guidarne uno
+=======
+
+alessandro - riccumeni: feature 1 Ho aggiunto la somma
+alessandro - riccumeni: feature 1 Ho aggiunto la sottrazione
+=======
+mattia-canepa:feature 1
+
+Benvenuto!
+Parleremo di animali, tanto per cambiare.
+
+Regno animale
+Gli animali sono un regno del dominio degli eucarioti,
+comprendono in totale più di 1 800 000 specie di organismi
+classificati, presenti sulla Terra dal periodo ediacarano.
+
+Vertebrati
+I vertebrati sono animali caratterizzati da una struttura
+scheletrica ossea e/o cartilaginea.
+
+
+mattia-canepa:feature 1-aggiunta
+Tetrapodi
+I tetrapodi sono la superclasse di vertebrati
+che presentano quattro arti, in alcuni casi scomparsi
+durante l'evoluzione.
+
+Amphibia
+Gli anfibi sono stati i primi vertebrati a colonizzare
+l'ambiente terrestre e come tali hanno avuto in passato
+una notevole espansione e diversificazione.
+
+Anuri
+Gli anuri sono un ordine di anfibi cui appartengono oltre
+7450 specie, comunemente definite rane, rospi e raganelle.
+
+Bufonidae
+Il genere "Bufo" racchiude I_Rospi. Fonte: Bufo bufo
+
+link all'immagine di sotto: Bufo bufo
+
+
