@@ -1,0 +1,6 @@
+daniel - precipuo: feature 1 - prima riga
+daniel - precipuo: feature 1 - aggiunta - seconda riga
+
+moreno - boasso: feature 1 - il mio primo libro 
+moreno - boasso: feature 1 - aggiunta - si intitolerà "star wars"
+
