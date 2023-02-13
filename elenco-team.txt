@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+
 Team 1: 
- Filippo-Gennusa
+Filippo-Gennusa
 
-
-=======
-Team 1:
 Armando-Costa
->>>>>>> 9ac66fb9d2eca9bd29aa609e63d4dbd8aecfc056
+
+riccardo-roux
+
 Team 2:
 
 Team 3:
