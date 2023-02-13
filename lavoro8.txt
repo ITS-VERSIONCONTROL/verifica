@@ -1,0 +1,12 @@
+daniel - precipuo: feature 1 - prima riga
+daniel - precipuo: feature 1 - aggiunta - seconda riga
+
+moreno - boasso: feature 1 - il mio primo libro 
+moreno - boasso: feature 1 - aggiunta - si intitolerà "star wars"
+
+Luca - Monas: feature 1 - siamo il team nichelinese
+Luca - Monas: feature 1 - aggiunta - 4 moschettieri
+
+simone-cavallo:feature 1 - speriamo vada
+simone-cavallo:feature 1 - aggiunta - sseconda riga
+
