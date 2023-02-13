@@ -1,0 +1,132 @@
+[33mcommit 1a41afee0d232d42ede826482388afce0ce73726[m[33m ([m[1;36mHEAD -> [m[1;32mintegrazione/riccardo-roux[m[33m, [m[1;31morigin/team1[m[33m, [m[1;32mteam1[m[33m)[m
+Merge: 78a2911 e028795
+Author: Jessica <jessica.almeida@edu.itspiemonte.it>
+Date:   Mon Feb 13 15:19:49 2023 +0100
+
+    Fixed the conflicts and Merge
+
+[33mcommit 78a2911af5c402dfe33738f5368251a853e596a4[m
+Merge: cb556c4 b2550b7
+Author: Riccardo <ICTS22-24.175@studenti.local>
+Date:   Mon Feb 13 15:16:40 2023 +0100
+
+    Added riccardo to elenco-team.txt
+
+[33mcommit cb556c4ed0f2f6dcda3dbcabf7ab7a66318bd609[m
+Merge: df84625 9ac66fb
+Author: Filippo <filippo.gennusa@edu.itspiemonte.it>
+Date:   Mon Feb 13 15:12:20 2023 +0100
+
+    merge with my modifies
+
+[33mcommit df846258a261f53660167bdcfbf90c2923533839[m
+Merge: c30f310 91a91aa
+Author: Filippo <filippo.gennusa@edu.itspiemonte.it>
+Date:   Mon Feb 13 15:09:25 2023 +0100
+
+    Merge branch 'team1-feature2-Filippo-Gennusa' into team1
+
+[33mcommit b2550b7ca190327b125188d59c947012f74cacd9[m[33m ([m[1;31morigin/team1-feature2-riccardo-roux[m[33m, [m[1;32mteam1-feature2-riccardo-roux[m[33m)[m
+Author: Riccardo <ICTS22-24.175@studenti.local>
+Date:   Mon Feb 13 15:07:34 2023 +0100
+
+    Added Riccardo to elenco-team.txt
+
+[33mcommit 9ac66fb9d2eca9bd29aa609e63d4dbd8aecfc056[m[33m ([m[1;31morigin/team1-feature2-armando-costa[m[33m)[m
+Author: Costa <124135730+armandocosta997@users.noreply.github.com>
+Date:   Mon Feb 13 15:07:18 2023 +0100
+
+    Added my name to elenco-team.txt
+
+[33mcommit 91a91aaac388e0acf730ca7cf11a5a70a1140e5e[m[33m ([m[1;31morigin/team1-feature2-Filippo-Gennusa[m[33m)[m
+Author: Filippo <filippo.gennusa@edu.itspiemonte.it>
+Date:   Mon Feb 13 15:05:58 2023 +0100
+
+     wrote my name under team1
+
+[33mcommit e02879540f61879277db1a89bdced596907bf204[m[33m ([m[1;31morigin/team1-feature2-jessica-almeida[m[33m)[m
+Author: Jessica <jessica.almeida@edu.itspiemonte.it>
+Date:   Mon Feb 13 15:05:22 2023 +0100
+
+    Wrote my name under Team 01
+
+[33mcommit c30f310859fa89385d9427a9f880028445a8e0d7[m
+Merge: 52a1ad0 1e2c573
+Author: Riccardo <ICTS22-24.175@studenti.local>
+Date:   Mon Feb 13 15:00:28 2023 +0100
+
+    Merged Riccardo's modifies to lavoro1.txt
+
+[33mcommit 52a1ad091b196407c8494497949a3eb89fb46e37[m
+Merge: b1f103f 189c44f
+Author: Filippo <filippo.gennusa@edu.itspiemonte.it>
+Date:   Mon Feb 13 14:57:21 2023 +0100
+
+    merged Filippo's modifies to lavoro1.txt
+
+[33mcommit b1f103fb00f5856b6d9e1833c10b7c354a4be01c[m
+Merge: 6fa90b2 865b91c
+Author: Costa <124135730+armandocosta997@users.noreply.github.com>
+Date:   Mon Feb 13 14:51:34 2023 +0100
+
+    Merged Armando's and Jessica's modifies on lavoro1.txt
+
+[33mcommit 189c44fdcc04c75ff8181263c8c8c886ecc3a093[m[33m ([m[1;31morigin/team1-feature1-Filippo-Gennusa[m[33m)[m
+Author: Filippo <filippo.gennusa@edu.itspiemonte.it>
+Date:   Mon Feb 13 14:37:08 2023 +0100
+
+    add another line to lavoro1.txt
+
+[33mcommit 1e2c5734bd3fe726a9e530b7f8f09d684e804a89[m[33m ([m[1;31morigin/team1-feature1-riccardo-roux[m[33m, [m[1;32mteam1-feature1-riccardo-roux[m[33m)[m
+Author: Riccardo <ICTS22-24.175@studenti.local>
+Date:   Mon Feb 13 14:32:22 2023 +0100
+
+    Added waves on the rocks to lavoro1.txt
+
+[33mcommit 6fa90b248581be49c165e93fc0292806a5ffa319[m[33m ([m[1;31morigin/team1-feature1-armando-costa[m[33m)[m
+Author: Costa <124135730+armandocosta997@users.noreply.github.com>
+Date:   Mon Feb 13 14:32:12 2023 +0100
+
+    Added my career goal in lavoro1.txt
+
+[33mcommit 865b91c937325ff275d2d1db76cb3366aa124c06[m[33m ([m[1;31morigin/team1-feature1-jessica-almeida[m[33m)[m
+Author: Jessica <jessica.almeida@edu.itspiemonte.it>
+Date:   Mon Feb 13 14:30:16 2023 +0100
+
+    added second line to lavoro1.txt
+
+[33mcommit 8a66a75bc3c6c68eae6d9f808be2528711091ae7[m
+Author: Jessica <jessica.almeida@edu.itspiemonte.it>
+Date:   Mon Feb 13 14:26:50 2023 +0100
+
+    added text to lavoro1.txt
+
+[33mcommit 835e1eba82af61fe9e8a89a71450672ab40f6700[m
+Author: Filippo <filippo.gennusa@edu.itspiemonte.it>
+Date:   Mon Feb 13 14:26:49 2023 +0100
+
+    add text to lavoro1.txt
+
+[33mcommit d3617d8ee623981501b9fb10969ad070e4ff68ce[m
+Author: Riccardo <ICTS22-24.175@studenti.local>
+Date:   Mon Feb 13 14:26:43 2023 +0100
+
+    Added sunset lover to lavoro1.txt
+
+[33mcommit 218ac0eaf4b6ed393995e39bfaa7568772200b5d[m
+Author: Costa <124135730+armandocosta997@users.noreply.github.com>
+Date:   Mon Feb 13 14:26:39 2023 +0100
+
+    Added my presentation to lavoro1.txt
+
+[33mcommit 20f76233004edc90014cc88bf735d4ee4807bae7[m[33m ([m[1;31morigin/team_3[m[33m, [m[1;31morigin/team9[m[33m, [m[1;31morigin/team8[m[33m, [m[1;31morigin/team6[m[33m, [m[1;31morigin/feature2-giorgio-galiano[m[33m)[m
+Author: Michel Mazumder <michel.mazumder@synesthesia.it>
+Date:   Mon Feb 13 09:37:00 2023 +0100
+
+    Aggiunto file per elenco team
+
+[33mcommit a56c6b23d97f4dcf283f560359b7596ee74205f0[m
+Author: Michel Mazumder <michel.mazumder@synesthesia.it>
+Date:   Mon Feb 13 09:21:10 2023 +0100
+
+    Initial commit
