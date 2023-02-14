@@ -11,5 +11,5 @@ Hao Bin - Cattano Zhou: feature 4 - ciao sono Hao Bin Cattano Zhou prima modific
 Hao Bin - Cattano Zhou: feature 4 - ciao sono Hao Bin Cattano Zhou seconda modifica 
 =======
 
-simone ruzza : feature 4 - ciao sono simone ruzza
-simone ruzza : feature 3 - aagiunta - sono un motociclsta
+ simone - ruzza: feature 3 - ciao sono simone ruzza
+ simone - ruzza: feature 3 - aggiunta - sono un motociclista 
