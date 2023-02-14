@@ -13,19 +13,12 @@ Team 6:
 Team 7:
 Zheng WenJun
 
-
-<<<<<<< HEAD
-
 Fabio Rattalino.
 
-
-
-
 CattanoZhouHaoBin
-=======
+
 simone ruzza
 
->>>>>>> team7-feature2.2-simone-ruzza
 Team 8:
 
 Team 9:
